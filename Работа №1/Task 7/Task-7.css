@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'beermoney';
+    src: url(beermoney.woff2);
+}
+input{
+    background-color: rgb(237, 179, 104);
+    border-radius: 15px;
+    font-family: 'beermoney';
+    font-size: 20px;
+}
+body{
+    font-family: 'beermoney';
+    font-size: 20px;
+}
+fieldset{
+    border-radius: 15px;
+}
+.butt{
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-left: 17px;
+}
+.butt:active{
+    background-color: rgb(141, 83, 7);
+}
+.butt:hover{
+    color: rgb(234, 206, 171);
+}
